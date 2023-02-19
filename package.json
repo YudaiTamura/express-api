@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "dev": "nodemon src/api.js",
     "start": "node src/api.js"
