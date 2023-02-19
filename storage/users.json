@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": 1, "name": "山田太郎", "displayName": "たろー" },
+    { "id": 2, "name": "テスト", "displayName": "てすと" },
+    { "id": 3, "name": "ユーザー3", "displayName": "ユーザー" }
+  ]
+}
