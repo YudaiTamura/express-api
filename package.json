@@ -3,8 +3,8 @@
     "node": "14.x"
   },
   "scripts": {
-    "dev": "nodemon src/api.js",
-    "start": "node src/api.js"
+    "dev": "nodemon app.js",
+    "start": "node app.js"
   },
   "dependencies": {
     "body-parser": "^1.20.1",
